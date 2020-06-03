@@ -1,5 +1,7 @@
 # _An Insight on Zachary Driscoll_
-![image](https://user-images.githubusercontent.com/65623724/83602976-89b4b480-a541-11ea-86a2-cc471706edf3.png)
+<p align="center">
+  <img width="253" height="504" src="https://user-images.githubusercontent.com/65623724/83602976-89b4b480-a541-11ea-86a2-cc471706edf3.png">
+</p>
 
 ## _Social Media Information_
 ### - Instagram/Snapchat:
