@@ -1,10 +1,6 @@
-## Welcome to an Insight of Zachary Driscoll's life
+## An Insight of Zachary Driscoll
+![image](https://user-images.githubusercontent.com/65623724/83602976-89b4b480-a541-11ea-86a2-cc471706edf3.png)
 
-You can use the [editor on GitHub](https://github.com/zjdriscoll/Zjdriscoll/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
