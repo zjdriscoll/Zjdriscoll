@@ -7,7 +7,7 @@
 <p align="center">I am a fan of sports, I play for the EB Bears Football Team, as well as the Bears</p>
 <p align="center">Throwing Team. I also do volunteer things on the side. Last year I recieved a silver</p>
 <p align="center">badge for having done over 100 hours of community service in one year. I just started a new Job</p>
-<p align="center">at McDonalds a couple of months ago. I recently got into a interest of cars so I need to start</p>
+<p align="center">at McDonalds a couple of months ago and I recently got into a interest of cars so I need to start</p>
 <p align="center">saving up more money so I can have fun with this hobby.</p>
 
 
