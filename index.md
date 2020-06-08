@@ -5,12 +5,11 @@
 
 <p align="center">Hi, My name is Zachary Driscoll and I am a Sophomore in East Brunswick High School.</p>
 <p align="center">I am a fan of sports, I play for the EB Bears Football Team, as well as the Bears</p>
-<p align="center">Throwing Team. I have other hobbies, such as a interest for Cars and Video Games.</p>
-<p align="center">Right now in school I am learning Spanish and a new trade in Accounting</p>
-<p align="center">I live with my Mom, Dad, Sister and my two dogs Abby & Kona. Abby is shown in the Picture above</p>
-<p align="center">My favorite vactions are ones on cruises with all my friends and family. We try to go on a trip</p>
-<p align="center">at least once a year. My favorite food has to be steak with mashed potatos on the side. </p>
-<p align="center"></p>
+<p align="center">Throwing Team. I also do volunteer things on the side. Last year I recieved a silver</p>
+<p align="center">badge for having done over 100 hours of community service in one year. I just started a new Job</p>
+<p align="center">at McDonalds a couple of months ago. I recently got into a interest of cars so I need to start</p>
+<p align="center">saving up more money so I can have fun with this hobby.</p>
+
 
 ## _Social Media Information_
 ### - Instagram/Snapchat:
